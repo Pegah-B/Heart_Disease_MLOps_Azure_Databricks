@@ -20,6 +20,6 @@ The dataset used is downloaded from [Kaggle](https://www.kaggle.com/datasets/kri
 
 5 - Batch Inference: Code for batch inference using the trained model in production.
 
-6 - requirements.txt: Python packages required for the project. To install dependencies, use: pip install -r requirements.txt
+6 - requirements.txt: Python packages required for the project. Use "pip install -r requirements.txt" to install dependencies.
     
 
