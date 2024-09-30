@@ -1,5 +1,4 @@
-# Heart_Disease_MLOps_Azure_Databricks
-Heart Disease Prediction with ML Models on Azure Databricks
+# Heart Disease Prediction with ML Models on Azure Databricks
 
 ## Overview
 This project develops a machine learning model to classify heart disease using Azure Databricks. The objective is to build a predictive model that identifies the presence of heart disease based on various clinical features. 
